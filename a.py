@@ -8,7 +8,7 @@ def f(x):
     x *= 3
     x += 2
 
-    if x > 15:
+    if x > 100:
         return True
     else:
         return False
